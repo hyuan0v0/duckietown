@@ -1,5 +1,6 @@
 # RPI DUCKIETOWN FALL 2019: Lane following
 Group Members: Guanjie Zhao, Run Wang, Helen Yuan
+
 Duckiebot: rng
 
 ## Introduction

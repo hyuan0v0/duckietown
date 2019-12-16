@@ -1,14 +1,14 @@
 # RPI DUCKIETOWN FALL 2019: Lane following
-## Group Members: Guanjie Zhao, Run Wang, Helen Yuan
-## Duckiebot: rng
+Group Members: Guanjie Zhao, Run Wang, Helen Yuan
+Duckiebot: rng
+
+## Introduction
 
 This repository is a fork of the original at http://github.com/duckietown/Software
 
 In this repository we will collect all the software, middleware, drivers, ROS modules, and so on, that would allow to run our cars.  
------
 
 Video: https://www.youtube.com/watch?v=5eXh7ZY_gTE
------
 
 ## Running the code
 

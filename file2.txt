@@ -1,9 +1,0 @@
-modified:   catkin_ws/src/lane_control/scripts/lane_controller_node.py
-	modified:   default.yaml
-
-	modified:   catkin_ws/src/lane_control/scripts/lane_controller_node.py
-	modified:   scuderia.yaml
-
-		catkin_ws/src/duckietown/config/baseline/calibration/camera_intrinsic/rng.yaml
-		
-	catkin_ws/src/duckietown/config/baseline/calibration/kinematics/rng.yaml

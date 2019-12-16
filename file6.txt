@@ -1,0 +1,21 @@
+cat ~/duckietown/catkin_ws/src/duckietown/config/baseline/calibration/camera_intrinsic/rng.yaml
+image_width: 640
+image_height: 480
+camera_name: /rng/camera_node
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [312.23455045570665, 0.0, 320.7405760892232, 0.0, 313.2163974890124, 228.3571565286394, 0.0, 0.0, 1.0]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.25499713146502473, 0.04343569659546267, 0.000948056805705248, 0.00018800557186779112, 0.0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [212.6257781982422, 0.0, 320.1492384870944, 0.0, 0.0, 251.14686584472656, 221.81127767363068, 0.0, 0.0, 0.0, 1.0, 0.0]

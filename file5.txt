@@ -1,0 +1,8 @@
+cat ~/duckietown/catkin_ws/src/duckietown/config/baseline/calibration/kinematics/rng.yaml
+baseline: 0.1
+calibration_time: 2019-12-15-05-50-06
+gain: 0.5
+k: 27.0
+limit: 1.0
+radius: 0.033
+trim: -0.02500000037252903
